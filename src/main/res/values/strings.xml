@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EjercicoEvaluacion</string>
+    <string name="input_the_first_equation">Input the first equation</string>
+    <string name="calculate">Calculate</string>
+    <string name="input_x">Input X</string>
+    <string name="input_y">Input Y</string>
+    <string name="input_z">Input Z</string>
+    <string name="go_the_second_operation">Go the second operation</string>
+    <string name="go_the_first_operation">go_the_first_operation</string>
+    <string name="input_a">Input a</string>
+    <string name="input_b">Input b</string>
+    <string-array name="operation">
+        <item>(x+y-z)(x+y+z)</item>
+
+    </string-array>
+</resources>
